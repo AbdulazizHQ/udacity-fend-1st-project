@@ -109,7 +109,7 @@ main {
     margin: 0;
 }
 
-.other-articles h3 {
+.other-articles h2 {
     font-family: 'Martel', serif;
 }
 
@@ -129,10 +129,6 @@ main {
     padding-bottom: 10px;
 }
 
-
-.other-articles h2 {
-    font-family: 'Martel', serif;
-}
 
 .share-section h2 {
     font-family: 'Martel', serif;
