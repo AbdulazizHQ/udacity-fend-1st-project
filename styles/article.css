@@ -4,6 +4,12 @@ p {
     font-size: 1.2em;
 }
 
+a {
+    font-size: 1.2em;
+    text-decoration: underline;
+    color: black;
+}
+
 main {
     grid-area: contentRow;
 }
