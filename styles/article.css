@@ -1,13 +1,10 @@
 @import 'global.css';
 
-p {
-    font-size: 1.2em;
-}
 
 a {
-    font-size: 1.2em;
     text-decoration: underline;
     color: black;
+    font-size: 2em;
 }
 
 main {
@@ -114,13 +111,13 @@ main {
 }
 
 .other-article {
-    margin-bottom: 7px;
+    padding: 5px;
     text-align: center;
+
 }
 
 .other-articles a {
     font-family: 'Roboto', sans-serif;
-    font-size: 1.2em;
 }
 
 .share-section {
@@ -136,7 +133,6 @@ main {
 }
 
 .share-section a {
-    font-size: 1.2em;
     font-family: 'Roboto', sans-serif;
     margin-left: 15px;
 }
@@ -151,14 +147,17 @@ main {
     }
 
 
-    .other-articles {
-        padding-left: 10px;
-    }
-
-
 }
 
 @media (min-width: 1101px) {
+
+    p {
+        font-size: 1em;
+    }
+
+    a {
+        font-size: 1em;
+    }
 
     .article-body {
         display: grid;
