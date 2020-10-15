@@ -45,7 +45,7 @@
 
 .navigation nav a {
     font-size: 1.2em;
-    padding: 1vw;
+    padding: 2vw;
     border-radius: 5px;
     background-color: #D75C37;
     color: #FFF;
@@ -76,7 +76,7 @@
     }
 
     .navigation nav a {
-        padding: 0.8vw;
+        padding: 1.5vw;
     }
 }
 
