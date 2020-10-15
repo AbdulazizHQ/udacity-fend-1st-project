@@ -12,7 +12,13 @@
   <component name="ChangeListManager">
     <list default="true" id="475c1365-239f-4852-8e7b-f6b94036d3cc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article1.html" beforeDir="false" afterPath="$PROJECT_DIR$/article1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article2.html" beforeDir="false" afterPath="$PROJECT_DIR$/article2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article3.html" beforeDir="false" afterPath="$PROJECT_DIR$/article3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article4.html" beforeDir="false" afterPath="$PROJECT_DIR$/article4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/article.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/article.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +74,7 @@
       <workItem from="1602612455283" duration="7205000" />
       <workItem from="1602693727110" duration="9261000" />
       <workItem from="1602776372982" duration="4581000" />
-      <workItem from="1602782508788" duration="208000" />
+      <workItem from="1602782508788" duration="2073000" />
     </task>
     <servers />
   </component>
@@ -92,10 +98,10 @@
       <screen x="0" y="0" width="1620" height="1040" />
     </state>
     <state x="469" y="242" width="672" height="677" key="run.anything.popup/0.0.1620.1040@0.0.1620.1040" timestamp="1602699624097" />
-    <state x="528" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1602708018004">
+    <state x="532" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1602784459558">
       <screen x="0" y="0" width="1620" height="1040" />
     </state>
-    <state x="528" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1620.1040@0.0.1620.1040" timestamp="1602708018004" />
+    <state x="532" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1620.1040@0.0.1620.1040" timestamp="1602784459558" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602339589899" />
   </component>
 </project>

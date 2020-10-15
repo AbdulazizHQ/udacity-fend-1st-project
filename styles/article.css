@@ -85,7 +85,7 @@ main {
     grid-area: authorName;
 }
 
-.author-name-bio p{
+.author-name-bio p {
     margin: 0;
 }
 
@@ -175,6 +175,7 @@ main {
 
     .main-article {
         border-right: 5px solid #C3D7DF;
+        padding-right: 10px;
     }
 
     .other-articles {
