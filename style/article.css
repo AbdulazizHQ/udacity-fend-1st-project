@@ -1,0 +1,172 @@
+@import 'global.css';
+
+main {
+    grid-area: contentRow;
+}
+
+.article-body {
+    display: grid;
+    grid-template-areas: "articleContent"
+                         "otherArticles"
+                         "authorBio"
+                         "shareArticle"
+}
+
+.article-title h1 {
+    font-family: 'Martel', serif;
+    margin: 3vw 0 0;
+    padding: 0;
+}
+
+.author-name-header p {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 0;
+}
+
+.article-image img {
+    width: 500px;
+    height: auto;
+}
+
+main {
+    grid-area: articleContent;
+}
+
+.main-article h2, .main-article h3, .main-article h4 {
+    font-family: 'Martel', serif;
+}
+
+.main-article p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.other-article {
+    grid-area: otherArticles;
+}
+
+.author-bio {
+    grid-area: authorBio;
+    display: grid;
+    grid-template-areas:
+            "aboutTheAuthor"
+            "authorAvatar"
+            "authorName"
+            "authorOcupation"
+            "authorBio";
+}
+
+.author-bio p {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.author-bio-header {
+    grid-area: aboutTheAuthor;
+}
+
+.author-bio-header h2 {
+    font-family: 'Martel', serif;
+}
+
+.author-avatar {
+    grid-area: authorAvatar;
+}
+
+.author-name-bio {
+    grid-area: authorName;
+}
+
+.author-name-bio p{
+    margin: 0;
+}
+
+.short-bio {
+    grid-area: authorBio;
+}
+
+.author-avatar img {
+    width: 150px;
+    height: auto;
+}
+
+.author-occupation {
+    grid-area: authorOcupation;
+}
+
+.author-occupation p {
+    margin: 0;
+}
+
+.other-articles h3 {
+    font-family: 'Martel', serif;
+}
+
+.other-article {
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+.other-articles a {
+    font-family: 'Roboto', sans-serif;
+}
+
+.share-section {
+    grid-area: shareArticle;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.share-section h2 {
+    font-family: 'Martel', serif;
+    text-align: left;
+}
+
+.share-section a {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 15px;
+
+}
+
+@media (min-width: 600px) and (max-width: 1100px) {
+
+
+    .article-image img {
+        width: 750px;
+        height: auto;
+    }
+
+
+    .other-articles {
+        padding-left: 10px;
+    }
+
+    .other-articles h3 {
+
+    }
+}
+
+@media (min-width: 1101px) {
+
+    .article-body {
+        display: grid;
+        grid-template-areas: "articleContent otherArticles"
+                             "articleContent otherArticles"
+                             "articleContent otherArticles"
+                             "authorBio authorBio"
+                             "shareArticle shareArticle"
+    }
+
+    .article-image img {
+        width: 1100px;
+        height: auto;
+    }
+
+    .main-article {
+        border-right: 5px solid #C3D7DF;
+    }
+
+    .other-articles {
+        padding-left: 10px;
+    }
+
+}
