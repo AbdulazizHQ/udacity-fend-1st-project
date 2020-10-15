@@ -1,5 +1,9 @@
 @import 'global.css';
 
+p {
+    font-size: 1.2em;
+}
+
 main {
     grid-area: contentRow;
 }
