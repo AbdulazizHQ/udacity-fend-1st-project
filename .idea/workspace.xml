@@ -11,8 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="475c1365-239f-4852-8e7b-f6b94036d3cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/article-card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/articles-container.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article1.html" beforeDir="false" afterPath="$PROJECT_DIR$/articles/article1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article2.html" beforeDir="false" afterPath="$PROJECT_DIR$/articles/article2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article3.html" beforeDir="false" afterPath="$PROJECT_DIR$/articles/article3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article4.html" beforeDir="false" afterPath="$PROJECT_DIR$/articles/article4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/article.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/article.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -47,11 +56,12 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\SurfaceBook\WebstormProjects\personal-blog\img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\SurfaceBook\WebstormProjects\personal-blog" />
+      <recent name="C:\Users\SurfaceBook\WebstormProjects\personal-blog\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SurfaceBook\WebstormProjects\personal-blog\articles" />
       <recent name="C:\Users\SurfaceBook\WebstormProjects\personal-blog\img" />
     </key>
   </component>
@@ -68,7 +78,8 @@
       <workItem from="1602612455283" duration="7205000" />
       <workItem from="1602693727110" duration="9261000" />
       <workItem from="1602776372982" duration="4581000" />
-      <workItem from="1602782508788" duration="2347000" />
+      <workItem from="1602782508788" duration="2964000" />
+      <workItem from="1602839824310" duration="338000" />
     </task>
     <servers />
   </component>
